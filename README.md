@@ -1,13 +1,13 @@
 # beima-cc
 
-北馬 Claude Code 收集工具集合  
+北马 Claude Code 收集工具集合
 Beima Claude Code Tools Collection
 
 ---
 
 ## 📖 简介 | Introduction
 
-这是一个收集和整理SClaude Code 相关幽台、配置和最佳实践的代库�
+这是一个收集和整理 Claude Code 相关工具、配置和最佳实践的仓库。
 
 This repository collects and organizes tools, configurations, and best practices related to Claude Code.
 
@@ -15,7 +15,7 @@ This repository collects and organizes tools, configurations, and best practices
 
 ## 🚀 快速开始 | Quick Start
 
-敬请篭待...  
+敬请期待...
 Coming soon...
 
 ---
